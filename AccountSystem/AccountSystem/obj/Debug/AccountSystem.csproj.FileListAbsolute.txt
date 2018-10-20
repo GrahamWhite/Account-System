@@ -1,0 +1,10 @@
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\bin\Debug\AccountSystem.exe.config
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\bin\Debug\AccountSystem.exe
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\bin\Debug\AccountSystem.pdb
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.csprojAssemblyReference.cache
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.Properties.Resources.resources
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.csproj.GenerateResource.cache
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.csproj.CoreCompileInputs.cache
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.exe
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.pdb
+C:\Users\Graham White\Desktop\AccountSystem\AccountSystem\obj\Debug\AccountSystem.Form1.resources
